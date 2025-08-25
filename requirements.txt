@@ -1,0 +1,4 @@
+azure-ai-projects
+azure-identity
+python-dotenv
+azure-ai-agents==1.1.0b4

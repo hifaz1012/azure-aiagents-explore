@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.env
+.env
+.venv
+venv/
+ENV/
+env/
+*.envrc
+*.mypy_cache/
+*.pytest_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+# VS Code
+.vscode/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
+# Test
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+# mypy
+.mypy_cache/
+# Pyre type checker
+.pyre/
+# pipenv
+Pipfile.lock
+# poetry
+poetry.lock
+# dotenv
+.env
+.env.*
+# Local env
+local.env
+# Ignore secrets
+secrets.env
+test_env
