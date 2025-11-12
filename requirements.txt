@@ -3,3 +3,4 @@ azure-identity
 python-dotenv
 azure-ai-agents==1.1.0b4
 agent-framework
+promptflow-evals
